@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Admob</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1943700858932247/4581404818</string>
+    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/1072772517</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1943700858932247/3312834417</string>
+    <string name="video_ad_unit_id">ca-app-pub-1943700858932247/4975880813</string>
+    <string name="video_ad_app_id">ca-app-pub-1943700858932247~1627938415</string>
+    <string name="admob_customevent_ad_unit_id">ca-app-pub-3940256099942544/3325725716</string>
+    <string name="banner_simple_tittle">Example simple banner with Admob</string>
+    <string name="banner_size_tittle">Example banner sizes with Admob</string>
+    <string name="banner_intertitial_tittle">Example intertitial with Admob</string>
+    <string name="banner_video_tittle">Example video with Admob</string>
+    <string name="banner_native_tittle">Example native with Admob</string>
+</resources>

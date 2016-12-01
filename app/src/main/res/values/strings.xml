@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Admob</string>
+    <string name="action_settings">Settings</string>
+    <string name="romerock">Rome Rock</string>
+    <string name="action_visitanos">Visitanos</string>
+    <string name="romerock_site">http://www.romerock.com</string>
+    <string name="share_text_msn">Ejemplos de Admob. Visita www.romerock.com</string>
+</resources>
